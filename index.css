@@ -19,3 +19,8 @@ section {
   font-size: 40px;
   font-weight: 800;
 }
+
+.d-inline {
+  display: inline;
+  margin-right: 5px;
+}
