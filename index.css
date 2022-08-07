@@ -24,3 +24,7 @@ section {
   display: inline;
   margin-right: 5px;
 }
+
+nav > ul {
+  list-style: none;
+}
