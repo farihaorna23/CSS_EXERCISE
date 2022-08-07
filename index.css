@@ -28,3 +28,8 @@ section {
 nav > ul {
   list-style: none;
 }
+
+body {
+  background-color: #222222;
+  color: #eeeeee;
+}
